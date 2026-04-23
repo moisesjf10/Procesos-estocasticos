@@ -1,2 +1,4 @@
 # Procesos-estocasticos
-Simulación de un proceso estocástico: Paseo Aleatorio Simple (PAS)
+Simulación de procesos estocásticos:
+- PAS (Paseo Aleatorio Simple)
+- GPs (Procesos Gaussianos)
